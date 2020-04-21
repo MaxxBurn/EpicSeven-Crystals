@@ -11,5 +11,7 @@ This option tells you the arena ranking you need to be, while taking in mind tha
 This app will have a more commits eventually , and i may turn it into a GUI if the community likes the idea
 
 For more information and advice you can contact me here: 
+
 Discord : MaxxBurn#5098
+
 Twitter : @MaxxBurnXD
