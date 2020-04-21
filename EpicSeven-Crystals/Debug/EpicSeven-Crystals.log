@@ -1,0 +1,6 @@
+﻿  crystals.cpp
+C:\Users\user\source\repos\EpicSeven-Crystals\EpicSeven-Crystals\crystals.cpp(32,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\EpicSeven-Crystals\EpicSeven-Crystals\crystals.cpp(35,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\EpicSeven-Crystals\EpicSeven-Crystals\crystals.cpp(37,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\EpicSeven-Crystals\EpicSeven-Crystals\crystals.cpp(39,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EpicSeven-Crystals.vcxproj -> C:\Users\user\source\repos\EpicSeven-Crystals\Debug\EpicSeven-Crystals.exe
